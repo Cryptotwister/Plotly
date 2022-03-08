@@ -76,11 +76,11 @@
 //   Plotly.newPlot('myDiv', data, layout);
 
 
-//   var numbers = [0,2,4,6,8];
-//   var added5 = numbers.map(function(plus5){
-//     return plus5 + 5;
-//   });
-//   console.log(added5);
+  // var numbers = [0,2,4,6,8];
+  // var added5 = numbers.map(function(plus5){
+  //   return plus5 + 5;
+  // });
+  // console.log(added5);
 
 
   var cities = [
